@@ -18,7 +18,7 @@
 `ring_buffer` до оптимизации:
 
 ```
- *  Executing task: /home/igor/projects/CPP/inity/main.out
+ *  Executing task: /home/igor/projects/CPP/initi/main.out
 
 producer_time: 1081ms; consumer_time: 1081ms
 producer_time: 1101ms; consumer_time: 1101ms
@@ -33,7 +33,7 @@ producer_time: 1089ms; consumer_time: 1089ms
 ```
 `ring_buffer` после оптимизации:
 ```
- *  Executing task: /home/igor/projects/CPP/inity/mainOptimized.out 
+ *  Executing task: /home/igor/projects/CPP/initi/mainOptimized.out 
 
 producer_time: 89ms; consumer_time: 89ms
 producer_time: 52ms; consumer_time: 52ms
